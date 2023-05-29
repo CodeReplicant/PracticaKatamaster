@@ -13,4 +13,6 @@ this is commit 1 .... prooving
 
 ## Pasos para la preparacion 
 
+1. Se debe amazar la masa con agua caliente primero, correccion de SSDEV
+
 
